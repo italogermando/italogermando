@@ -39,7 +39,7 @@ const italo = {
 [![Figma](https://img.shields.io/badge/-Figma-AE4DFF?style=for-the-badge&labelColor=black&logo=figma&logoColor=AE4DFF)](#)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&labelColor=black&logo=Adobe%20XD&logoColor=#FF61F6)](#)
 
-<!--## 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=italogermando&theme=radical" />
@@ -50,7 +50,7 @@ const italo = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italogermando&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
-## 🎨 Featured Works
+<!--## 🎨 Featured Works
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/italogermano/italogermando/main/contribution-snake.svg" />
