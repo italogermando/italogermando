@@ -17,7 +17,7 @@ const italo = {
 ## 🛠️ Tech Arsenal
 
 #### ⚡ Front-End Tools
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,react,tailwind,next)](https://skillicons.dev)<br/>
 
 #### 🎨 Design Mastery
 [![SkillIcons](https://skillicons.dev/icons?i=ps,ai,ae,blender)](https://skillicons.dev)<br/>
